@@ -5,7 +5,7 @@ import getpass
 def menu():
 	print("\n==========QUIZ START==========")
 	score = 0
-	with open("assets/questions.json", 'r+') as f:
+	with open("questions.json", 'r+') as f:
 		question_list = json.load(f)
 		for i in range(10):
 			number_of_questions = len(question_list)
