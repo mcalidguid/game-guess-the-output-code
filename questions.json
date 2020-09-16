@@ -1,0 +1,12 @@
+[{
+	"question": 
+	"x = y = 1
+	z = 0
+	a = (x and z) and (x or y)
+	print(a)",
+	"options": ["A. 0", 
+		"B. True", 
+		"C. False", 
+		"D. 1"],
+	"answer": "A. 0"
+}]
