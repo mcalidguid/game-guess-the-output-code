@@ -3,7 +3,7 @@ import random
 import getpass
 
 def menu():
-	print("\n==========QUIZ START==========")
+	print("~#--------------#~  FRIENDS  ~#--------------#~")
 	score = 0
 	with open("questions.json", 'r+') as f:
 		question_list = json.load(f)
