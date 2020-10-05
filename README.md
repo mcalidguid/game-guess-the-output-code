@@ -1,1 +1,1 @@
-# game-guess-the-output-code
+# quiz-F.R.I.E.N.D.S-show
