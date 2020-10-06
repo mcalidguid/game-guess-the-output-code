@@ -1,12 +1,415 @@
 [{
-	"question": 
-	"x = y = 1
-	z = 0
-	a = (x and z) and (x or y)
-	print(a)",
-	"options": ["A. 0", 
-		"B. True", 
-		"C. False", 
-		"D. 1"],
-	"answer": "A. 0"
-}]
+	"question": "Monica briefly dates billionaire Pete Becker. Which country does he take her for their first date?",
+	"options": ["A. France", 
+		"B. Italy", 
+		"C. England", 
+		"D. Greece"],
+	"answer": "B. Italy"
+},
+{
+	"question": "Rachel was popular in high school. Her prom date Chip ditched her for which girl at school?",
+	"options": ["A. Sally Roberts",
+		"B. Amy Welsh",
+		"C. Valerie Thompson",
+		"D. Katy Smith"],
+	"answer": "B. Amy Welsh"
+},
+{
+	"question": "What’s the name of the 1950s-themed diner where Monica worked as a waitress?",
+	"options": ["A. Marilyn & Audrey",
+		"B. Twilight Galaxy",
+		"C. Moondance Diner",
+		"D. Apple & Bees"],
+	"answer": "C. Moondance Diner"
+},
+{
+	"question": "Janice gets married twice. What’s was her first husband’s name?",
+	"options": ["A. Gary Litman",
+		"B. Sid Goralnik",
+		"C. Rob Bailystock",
+		"D. Tyron Cruger"],
+	"answer": "A. Gary Litman"
+},
+{
+	"question": "Ursula was always mean! Which cartoon character was on Phoebe’s thermos that Ursula threw under a bus?",
+	"options": ["A. Pebbles Flinstone",
+		"B. Yogi Bear",
+		"C. Judy Jetson",
+		"D. Bullwinkle"],
+	"answer": "C. Judy Jetson"
+},
+{
+	"question": "What is Joey’s penguin’s name?",
+	"options": ["A. Snowflake",
+		"B. Waddle",
+		"C. Huggsy",
+		"D. ???"],
+	"answer": "B. Pneumatic rubber tire"
+},
+{
+	"question": "What is Joey’s penguin’s name?",
+	"options": ["A. Snowflake",
+		"B. Waddle",
+		"C. Huggsy",
+		"D. Tux"],
+	"answer": "C. Huggsy"
+},
+{
+	"question": "When Ross and Rachel were on a break, Ross slept with Chloe. Where does she work?",
+	"options": ["A. Microsoft",
+		"B. Xerox",
+		"C. Domino's",
+		"D. Pizza Hut"],
+	"answer": "B. Xerox"
+},
+{
+	"question": "Chandler’s mom had an interesting career and even more interesting love life. What’s her name?",
+	"options": ["A. Priscilla Mae Galway",
+		"B. Nora Tyler Bing",
+		"C. Mary Jane Bing",
+		"D. Josephine Tyler Bing"],
+	"answer": "B. Nora Tyler Bing"
+},
+{
+	"question": "Monica and Chandler met on Thanksgiving in 1987. She pursued her career as a chef because Chandler complimented her on which dish?",
+	"options": ["A. Green bean casserole",
+		"B. Meatloaf",
+		"C. Stuffing",
+		"D. Macaroni & Cheese"],
+	"answer": "D. Macaroni & Cheese"
+},
+{
+	"question": "What fake name does Phoebe use when she wants to remain anonymous?",
+	"options": ["A. Regina Phalange",
+		"B. Bonnie Riddle",
+		"C. Phyllis Halpert",
+		"D. Princess Consuela"],
+	"answer": "A. Regina Phalange"
+},
+{
+	"question": "How much of Joey’s heritage is Portuguese?",
+	"options": ["A. 1/4",
+		"B. 1/8",
+		"C. 1/16",
+		"D. 0"],
+	"answer": "C. 1/16"
+},
+{
+	"question": "Chandler is a unique first name, but Bing is something different! Chandler says that his last name is Gaelic for what?",
+	"options": ["A. Huzzah! The team has scored.",
+		"B. Thy turkey’s done.",
+		"C. Thou hast received a telegram.",
+		"D. Cheese! this burns"],
+	"answer": "B. Thy turkey’s done."
+},
+{
+	"question": "Before being called FRIENDS, the show was actually named this:",
+	"options": ["A. Insomnia Cafe",
+		"B. Sleepless Cafe",
+		"C. Amigo’s Cafe",
+		"D. Cafeteria"],
+	"answer": "A. Insomnia Cafe"
+},
+{
+	"question": "What was Monica's apartment number?",
+	"options": ["A. 18",
+		"B. 20",
+		"C. 5",
+		"D. 3"],
+	"answer": "B. 20"
+},
+{
+	"question": "Which season was the only season to not include a Thanksgiving episode?",
+	"options": ["A. 1",
+		"B. 4",
+		"C. 5",
+		"D. Every season had a Thanksgiving episode."],
+	"answer": "D. Every season had a Thanksgiving episode."
+},
+{
+	"question": "Which of the boys peed on Monica's jellyfish sting?",
+	"options": ["A. Mike",
+		"B. Chandler",
+		"C. Ross",
+		"D. Joey"],
+	"answer": "B. Chandler"
+},
+{
+	"question": "Which of these jobs did Chandler NOT hold?",
+	"options": ["A. IT Procurement Manager",
+		"B. Data Analyst",
+		"C. Junior Advertising Copywriter",
+		"D. Quality Assurance and Control"],
+	"answer": "D. Quality Assurance and Control"
+},
+{
+	"question": "Who was responsible for a house fire that took place in their apartment?",
+	"options": ["A. Rachel",
+		"B. Phoebe",
+		"C. Ross",
+		"D. Chandler"],
+	"answer": "A. Rachel"
+},
+{
+	"question": "What color is Monica's Ottoman?",
+	"options": ["A. Purple",
+		"B. Orange",
+		"C. Green",
+		"D. Blue"],
+	"answer": "C. Green"
+},
+{
+	"question": "What sweet treat do Ross and Rachel share in the pilot?",
+	"options": ["A. Cupcake",
+		"B. Chips Ahoy",
+		"C. Oreo",
+		"D. Fudge Round"],
+	"answer": "C. Oreo"
+},
+{
+	"question": "Carcass, the band Megan wants to play at her wedding, is what type of group?",
+	"options": ["A. R&B",
+		"B. Alternative",
+		"C. Hip-Hop",
+		"D. Heavy Metal"],
+	"answer": "D. Heavy Metal"
+},
+{
+	"question": "Which of these people on Chandler's list does he consider way out of his league?",
+	"options": ["A. Betty Boop",
+		"B. Jessica Rabbit",
+		"C. Linda Belcher",
+		"D. Lola Bunny"],
+	"answer": "B. Jessica Rabbit"
+},
+{
+	"question": "What type of vehicle did Phoebe once live in?",
+	"options": ["A. Buick LeSabre",
+		"B. Toyota Camry",
+		"C. Hyundai Sonata",
+		"D. Ford F150"],
+	"answer": "A. Buick LeSabre"
+},
+{
+	"question": "How many roses does Ross send to Emily?",
+	"options": ["A. 69",
+		"B. 13",
+		"C. 72",
+		"D. 32"],
+	"answer": "C. 72"
+},
+{
+	"question": "What glamorous job does Susie Moss have?",
+	"options": ["A. Make-Up Artist",
+		"B. Actress",
+		"C. Singer",
+		"D. Costume Designer"],
+	"answer": "A. Make-Up Artist"
+},
+{
+	"question": "What position do Emily's parents hold?",
+	"options": ["A. Fashion Designers",
+		"B. Interior Designers",
+		"C. Business Liaisons",
+		"D. Auction Appraisers"],
+	"answer": "B. Interior Designers"
+},
+{
+	"question": "Who is Maurice to Joey?",
+	"options": ["A. Brother",
+		"B. Cousin",
+		"C. Step Father",
+		"D. Imaginary Friend"],
+	"answer": "D. Imaginary Friend"
+},
+{
+	"question": "Who is it that Chandler must fire?",
+	"options": ["A. Nina",
+		"B. Tina",
+		"C. Linda",
+		"D. Mary"],
+	"answer": "A. Nina"
+},
+{
+	"question": "What gift does Ross receive from Mona after her trip?",
+	"options": ["A. Saltwater Taffy",
+		"B. Chocolate Almonds",
+		"C. Flowers",
+		"D. Clothes"],
+	"answer": "A. Saltwater Taffy"
+},
+{
+	"question": "What gift does Pete bring Monica form the Land of the Rising Sun?",
+	"options": ["A. Sake",
+		"B. Toiletries",
+		"C. Kimono",
+		"D. Pastries"],
+	"answer": "B. Toiletries"
+},
+{
+	"question": "Phoebe believes that Julio the cat is what family member?",
+	"options": ["A. Father",
+		"B. Sister",
+		"C. Mother",
+		"D. Brother"],
+	"answer": "C. Mother"
+},
+{
+	"question": "Which of famous scientists did Phoebe believe was her grandfather?",
+	"options": ["A. Nikola Tesla",
+		"B. Albert Einstein",
+		"C. Sir Isaac Newton",
+		"D. Bill Nye the Science Guy"],
+	"answer": "B. Albert Einstein"
+},
+{
+	"question": "Which of New York's villages do the Friends live in?",
+	"options": ["A. Greenwich",
+		"B. East",
+		"C. West",
+		"D. Almond"],
+	"answer": "A. Greenwich"
+},
+{
+	"question": "Gunther is fluent in which of these languages?",
+	"options": ["A. Dutch",
+		"B. German",
+		"C. Arabic",
+		"D. Greek"],
+	"answer": "A. Dutch"
+},
+{
+	"question": "Which couple never kisses on the show?",
+	"options": ["A. Ross and Rachel",
+		"B. Chandler and Rachel",
+		"C. Joey and Monica",
+		"D. Phoebe and Ross"],
+	"answer": "C. Joey and Monica"
+},
+{
+	"question": "What is Ross's middle name?",
+	"options": ["A. Theodore",
+		"B. Commodore",
+		"C. Eustace",
+		"D. Archibald"],
+	"answer": "C. Eustace"
+},
+{
+	"question": "What causes a fire at Phoebe and Rachel's apartment?",
+	"options": ["A. Toaster oven",
+		"B. Candle",
+		"C. Fireplace",
+		"D. Hair straightener"],
+	"answer": "D. Hair straightener"
+},
+{
+	"question": "Which friend only has 9 toes?",
+	"options": ["A. Joey",
+		"B. Ross",
+		"C. Phoebe",
+		"D. Chandler"],
+	"answer": "D. Chandler"
+},
+{
+	"question": "",
+	"options": ["A. ",
+		"B. ",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "",
+	"options": ["A. ",
+		"B. ",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "",
+	"options": ["A. ",
+		"B. ",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "",
+	"options": ["A. ",
+		"B. ",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "",
+	"options": ["A. ",
+		"B. ",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "",
+	"options": ["A. ",
+		"B. ",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "",
+	"options": ["A. ",
+		"B. ",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "",
+	"options": ["A. ",
+		"B. ",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "",
+	"options": ["A. ",
+		"B. ",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "",
+	"options": ["A. ",
+		"B. ",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "",
+	"options": ["A. ",
+		"B. ",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "",
+	"options": ["A. ",
+		"B. ",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+
+
+]
+
+
+
+
