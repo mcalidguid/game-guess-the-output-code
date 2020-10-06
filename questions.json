@@ -567,20 +567,20 @@
 	"answer": ""
 },
 {
-	"question": "47 Where does Chandler move to in season nine?",
+	"question": "Where does Chandler move to in season nine?",
 	"options": ["A. Boston",
 		"B. ",
 		"C. ",
 		"D. Tulsa"],
-	"answer": ""
+	"answer": "D. Tulsa"
 },
 {
-	"question": "46 Who was the first person to find out Monica and Chandler were dating?",
+	"question": "Who was the first person to find out Monica and Chandler were dating?",
 	"options": ["A. Ross",
 		"B. ",
 		"C. Joey",
 		"D. "],
-	"answer": ""
+	"answer": "C. Joey"
 },
 {
 	"question": "Who is Tag?",
@@ -588,123 +588,141 @@
 		"B. ",
 		"C. Rachel's assistant",
 		"D. "],
-	"answer": ""
+	"answer": "C. Rachel's assistant"
 },
 {
-	"question": "39 What did Joey buy Chandler as a token of their friendship? Chandler hates it.",
+	"question": "What did Joey buy Chandler as a token of their friendship? Chandler hates it.",
 	"options": ["A. a necklace",
 		"B. a keychain",
 		"C. a bracelet",
-		"D. a "],
-	"answer": ""
+		"D. a ring"],
+	"answer": "a bracelet"
 },
 {
-	"question": "38 What is Rachel’s favorite flower?",
+	"question": "What is Rachel’s favorite flower?",
 	"options": ["A. Roses",
 		"B. Lilies",
 		"C. ",
 		"D. "],
-	"answer": ""
+	"answer": "B. Lilies"
 },
 {
-	"question": "37 Where did Rachel, Monica and Ross go to high school?",
+	"question": "Where did Rachel, Monica and Ross go to high school?",
 	"options": ["A. Lincoln High",
 		"B. Washington High",
 		"C. ",
 		"D. "],
-	"answer": ""
+	"answer": "A. Lincoln High"
 },
 {
-	"question": "35 Which friend was the only one to kiss all the other friends over the course of the show?",
+	"question": "Which friend was the only one to kiss all the other friends over the course of the show?",
 	"options": ["A. Rachel",
 		"B. Ross",
 		"C. ",
 		"D. "],
-	"answer": ""
+	"answer": "A. Rachel"
 },
 {
-	"question": "33 Who's the first person to appear in the opening credits?",
+	"question": "Who's the first person to appear in the opening credits?",
 	"options": ["A. Monica",
 		"B. Rachel",
-		"C. ",
-		"D. "],
-	"answer": ""
+		"C. Chandler",
+		"D. Joey"],
+	"answer": "B. Rachel"
 },
 {
-	"question": "31 What did Joey's imaginary friend do for a living?",
+	"question": "What did Joey's imaginary friend do for a living?",
 	"options": ["A. a space cowboy",
 		"B. a space ranger",
 		"C. a space superhero",
 		"D. a space police"],
-	"answer": ""
+	"answer": "A. a space cowboy"
 },
 {
-	"question": "26 What’s the name of Phoebe’s most popular song?",
+	"question": "What’s the name of Phoebe’s most popular song?",
 	"options": ["A. Scaredy Cat",
 		"B. ",
 		"C. Smelly Cat",
 		"D. "],
-	"answer": ""
+	"answer": "C. Smelly Cat"
 },
 {
-	"question": "24 What’s Joey’s favorite food?",
+	"question": "What’s Joey’s favorite food?",
 	"options": ["A. Sandwiches",
 		"B. Turkey",
 		"C. Pizza",
 		"D. Truffle"],
-	"answer": ""
+	"answer": "A. Sandwiches"
 },
 {
-	"question": "22 What is Chandler’s dad’s stage name?",
+	"question": "What is Chandler’s dad’s stage name?",
 	"options": ["A. Viva La Gaygas",
 		"B. ",
 		"C. ",
 		"D. "],
-	"answer": ""
+	"answer": "A. Viva La Gaygas"
 },
 {
-	"question": "14 Who got stuck in a pair of leather pants?",
+	"question": "Who got stuck in a pair of leather pants?",
 	"options": ["A. Ross",
 		"B. Joey",
 		"C. ",
 		"D. "],
-	"answer": ""
+	"answer": "A. Ross"
 },
 {
-	"question": "",
-	"options": ["A. ",
-		"B. ",
+	"question": "What is Joey’s fake name?",
+	"options": ["A. Mike Hannigan",
+		"B. Ken Adams",
 		"C. ",
 		"D. "],
-	"answer": ""
+	"answer": "B. Ken Adams"
 },
 {
-	"question": "",
-	"options": ["A. ",
-		"B. ",
-		"C. ",
-		"D. "],
-	"answer": ""
+	"question": "What is Rachel scared of?",
+	"options": ["A. Dogs",
+		"B. Cats",
+		"C. Swings",
+		"D. Trucks"],
+	"answer": "C. Swings"
 },
 {
-	"question": "",
-	"options": ["A. ",
-		"B. ",
-		"C. ",
-		"D. "],
-	"answer": ""
+	"question": "What's the name of the dancer Joey lived with?",
+	"options": ["A. Janice",
+		"B. Janine",
+		"C. Jenette",
+		"D. Jennie"],
+	"answer": "B. Janine"
 },
 {
-	"question": "",
-	"options": ["A. ",
-		"B. ",
+	"question": "What nickname did Monica’s dad give her?",
+	"options": ["A. Tiny Electronica",
+		"B. Little Harmonica",
 		"C. ",
 		"D. "],
-	"answer": ""
-}
-
-]
-
-
-
-
+	"answer": "B. Little Harmonica"
+},
+{
+	"question": "How many times has Ross been married?",
+	"options": ["A. 4",
+		"B. 3",
+		"C. 5",
+		"D. 2"],
+	"answer": "B. 3"
+},
+{
+	"question": "How many sisters does Joey have?",
+	"options": ["A. 8",
+		"B. 7",
+		"C. 6",
+		"D. 5"],
+	"answer": "B. 7"
+},
+{
+	"question": "Who was Monica’s first kiss?",
+	"options": ["A. Ross",
+		"B. Chandler",
+		"C. Joey",
+		"D. Rachel"],
+	"answer": "A. Ross"
+}]
