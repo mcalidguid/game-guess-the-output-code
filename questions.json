@@ -311,9 +311,361 @@
 	"answer": "D. Chandler"
 },
 {
-	"question": "",
+	"question": "116 Which one of Joey's sisters did Chandler fool around with at Joey's birthday party?",
+	"options": ["A. Mary Angela",
+		"B. Mary Therese",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "114 Who was Rachel supposed to marry in the pilot episode?",
+	"options": ["A. Paolo",
+		"B. Barry",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "112 What role did Janice originally audition for on FRIENDS?",
 	"options": ["A. ",
 		"B. ",
+		"C. Monica Geller",
+		"D. Rachel Green"],
+	"answer": ""
+},
+{
+	"question": "106 Where did Ross and Rachel get married on a whim?",
+	"options": ["A. Atlantic City",
+		"B. Las Vegas",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "104 What is the name of Ross' first wife?",
+	"options": ["A. Carla",
+		"B. Emily",
+		"C. Carol",
+		"D. Cath"],
+	"answer": ""
+},
+{
+	"question": "103 What is the name of Joey's agent?",
+	"options": ["A. Edith",
+		"B. Estelle",
+		"C. Eunice",
+		"D. Esmelita"],
+	"answer": ""
+},
+{
+	"question": "102 Who is Joey and Chandler's TV guide addressed to?",
+	"options": ["A. Miss Chandler Bong",
+		"B. Mr. Chandelier Bang",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "101 How many categories of towels does Monica have?",
+	"options": ["A. 9",
+		"B. 10",
+		"C. 11",
+		"D. 12"],
+	"answer": ""
+},
+{
+	"question": "100 Which soap opera did Joey have a role on?",
+	"options": ["A. General Hospital",
+		"B. Days of Our Lives",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "94 Who got married outside of Central Perk?",
+	"options": ["A. Phoebe",
+		"B. Ross",
+		"C. Monica",
+		"D. Rachel"],
+	"answer": ""
+},
+{
+	"question": "92 Who originally owned Monica's apartment?",
+	"options": ["A. Her mother",
+		"B. Her aunt",
+		"C. Her grandmother",
+		"D. Her grandfather"],
+	"answer": ""
+},
+{
+	"question": "91 Who walked Phoebe down the aisle at her wedding?",
+	"options": ["A. Ross",
+		"B. Chandler",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "89 What did the friends call the guy who used to live across the street from Monica?",
+	"options": ["A. Ugly Naked Guy",
+		"B. Funny Naked Guy",
+		"C. Grossy Naked Guy",
+		"D. Hot Naked Guy"],
+	"answer": ""
+},
+{
+	"question": "88 What kind of advanced degree does Ross have?",
+	"options": ["A. Ph.D.",
+		"B. M.D",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "87 Who joined the I Hate Rachel Green Club in high school?",
+	"options": ["A. Ross",
+		"B. Monica",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "86 Who has the job no one can remember?",
+	"options": ["A. Phoebe",
+		"B. Ross",
+		"C. Joey",
+		"D. Chandler"],
+	"answer": ""
+},
+{
+	"question": "85 What did Monica and Chandler name their kids?",
+	"options": ["A. ",
+		"B. ",
+		"C. Jack and Alice",
+		"D. Jack and Erica"],
+	"answer": ""
+},
+{
+	"question": "82 Who was Phoebe originally going to marry on the show?",
+	"options": ["A. Mike",
+		"B. ",
+		"C. David",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "81 What does Monica love to do?",
+	"options": ["A. Clean",
+		"B. Cook",
+		"C. Sleep",
+		"D. Flirt"],
+	"answer": ""
+},
+{
+	"question": "78 Where did Ross and Rachel go on their first official date?",
+	"options": ["A. Japanese Restaurant",
+		"B. Planetarium",
+		"C. Zoo",
+		"D. MET"],
+	"answer": ""
+},
+{
+	"question": "76 What is Monica allergic to?",
+	"options": ["A. Dog hair",
+		"B. Cat hair",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "71 Ross has a painting of what bug in his apartment?",
+	"options": ["A. a dragonfly",
+		"B. a firefly",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "70 How many claps are in the theme song?",
+	"options": ["A. four",
+		"B. five",
+		"C. six",
+		"D. three"],
+	"answer": ""
+},
+{
+	"question": "64 What is Thursday according to Joey?",
+	"options": ["A. first day",
+		"B. second day",
+		"C. third day",
+		"D. fourth day"],
+	"answer": ""
+},
+{
+	"question": "63 What was the name of the bald woman Ross dated?",
+	"options": ["A. Bonnie",
+		"B. Janine",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "62 Who says the last line on the show?",
+	"options": ["A. Phoebe",
+		"B. Chandler",
+		"C. Ross",
+		"D. Joey"],
+	"answer": ""
+},
+{
+	"question": "59 Why did Chandler spend Thanksgiving in a box?",
+	"options": ["A. He ate everyone's food",
+		"B. He kissed Joey's girlfriend",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "56 What are Monica and Ross’ parents’ names?",
+	"options": ["A. Jake and Jane",
+		"B. Judy and Jack",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "55 What hangs on the back of Monica’s door?",
+	"options": ["A. a black mirror",
+		"B. a yellow frame",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "54 Where do Monica and Chandler move to at the end of the show?",
+	"options": ["A. Westchester",
+		"B. Williamsburg",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "50 Where was Ross and Emily's honeymoon supposed to be?",
+	"options": ["A. Greece",
+		"B. Rome",
+		"C. Paris",
+		"D. Venice"],
+	"answer": ""
+},
+{
+	"question": "49 What word did Ross say he learned in karate?",
+	"options": ["A. Zanshin",
+		"B. Unagi",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "47 Where does Chandler move to in season nine?",
+	"options": ["A. Boston",
+		"B. ",
+		"C. ",
+		"D. Tulsa"],
+	"answer": ""
+},
+{
+	"question": "46 Who was the first person to find out Monica and Chandler were dating?",
+	"options": ["A. Ross",
+		"B. ",
+		"C. Joey",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "Who is Tag?",
+	"options": ["A. Monica's assistant",
+		"B. ",
+		"C. Rachel's assistant",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "39 What did Joey buy Chandler as a token of their friendship? Chandler hates it.",
+	"options": ["A. a necklace",
+		"B. a keychain",
+		"C. a bracelet",
+		"D. a "],
+	"answer": ""
+},
+{
+	"question": "38 What is Rachel’s favorite flower?",
+	"options": ["A. Roses",
+		"B. Lilies",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "37 Where did Rachel, Monica and Ross go to high school?",
+	"options": ["A. Lincoln High",
+		"B. Washington High",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "35 Which friend was the only one to kiss all the other friends over the course of the show?",
+	"options": ["A. Rachel",
+		"B. Ross",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "33 Who's the first person to appear in the opening credits?",
+	"options": ["A. Monica",
+		"B. Rachel",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "31 What did Joey's imaginary friend do for a living?",
+	"options": ["A. a space cowboy",
+		"B. a space ranger",
+		"C. a space superhero",
+		"D. a space police"],
+	"answer": ""
+},
+{
+	"question": "26 What’s the name of Phoebe’s most popular song?",
+	"options": ["A. Scaredy Cat",
+		"B. ",
+		"C. Smelly Cat",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "24 What’s Joey’s favorite food?",
+	"options": ["A. Sandwiches",
+		"B. Turkey",
+		"C. Pizza",
+		"D. Truffle"],
+	"answer": ""
+},
+{
+	"question": "22 What is Chandler’s dad’s stage name?",
+	"options": ["A. Viva La Gaygas",
+		"B. ",
+		"C. ",
+		"D. "],
+	"answer": ""
+},
+{
+	"question": "14 Who got stuck in a pair of leather pants?",
+	"options": ["A. Ross",
+		"B. Joey",
 		"C. ",
 		"D. "],
 	"answer": ""
@@ -349,64 +701,7 @@
 		"C. ",
 		"D. "],
 	"answer": ""
-},
-{
-	"question": "",
-	"options": ["A. ",
-		"B. ",
-		"C. ",
-		"D. "],
-	"answer": ""
-},
-{
-	"question": "",
-	"options": ["A. ",
-		"B. ",
-		"C. ",
-		"D. "],
-	"answer": ""
-},
-{
-	"question": "",
-	"options": ["A. ",
-		"B. ",
-		"C. ",
-		"D. "],
-	"answer": ""
-},
-{
-	"question": "",
-	"options": ["A. ",
-		"B. ",
-		"C. ",
-		"D. "],
-	"answer": ""
-},
-{
-	"question": "",
-	"options": ["A. ",
-		"B. ",
-		"C. ",
-		"D. "],
-	"answer": ""
-},
-{
-	"question": "",
-	"options": ["A. ",
-		"B. ",
-		"C. ",
-		"D. "],
-	"answer": ""
-},
-{
-	"question": "",
-	"options": ["A. ",
-		"B. ",
-		"C. ",
-		"D. "],
-	"answer": ""
-},
-
+}
 
 ]
 
