@@ -3,19 +3,22 @@ import random
 
 print("~#--------------#~  FRIENDS  ~#--------------#~")
 score = 0
-with open("questions.json", 'r+') as f:
+number_of_question = 5
+with open("questions.json", 'r') as f:
+    # laman  ng json file
     question_list = json.load(f)
-    for i in range(10):
+    for i in range(number_of_question):
         total_questions = len(question_list)
+        # print(total_questions)
         question = random.randint(0, total_questions - 1)
-        print(f'\nQ{i + 1} {question_list[question]["question"]}')
+        print(f'\nQ{i + 1}. {question_list[question]["question"]}')
         for option in question_list[question]["options"]:
             print(option)
-        answer = input("Enter your answer: ")
+        answer = input(">>> Enter your answer: ")
         if question_list[question]["answer"][0] == answer[0].upper():
-            print("You are correct")
+            print("You were right!")
             score += 1
         else:
-            print("You are incorrect")
+            print("Close but not quite...")
         del question_list[question]
-    print(f'FINAL SCORE: {score}')
+    print("\nYour score is", score)
