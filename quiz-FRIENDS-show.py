@@ -25,9 +25,15 @@ def quiz(no_of_question):
         print("\nYou scored %.f" % final_score, "%")
 
         if final_score < 80:
-            print("You failed")
+            print("You failed. The required score is 80%.")
+            print("Could this quiz BE any harder?")
+            print("It's time for you to have a FRIENDS marathon again,.. then try this quiz again!")
+        elif final_score == 100:
+            print("Wow!")
+            print("Only the truest of fans can get a perfect score!")
         else:
-            print("You passed")
+            print("You passed! Congratulations~")
+            print("Just binge watch the show anyway because who doesn't want to relive those moments?!")
 
 
 def message(error):
