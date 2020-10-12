@@ -22,11 +22,13 @@ def quiz(no_of_question):
                 print("ヾ(￣◇￣)ノ Hmm close but not quite... ")
             del question_list[question]
         final_score = (score/no_of_question)*100
-        print("\nYou scored %.f" % final_score, "%")
+        print("..")
+        print("...")
+        print("You scored %.f" % final_score, "%")
 
         if final_score < 80:
-            print("You failed. The required score is 80%.")
-            print("Could this quiz BE any harder?")
+            print("You failed. Could this quiz BE any harder?")
+            print("The required score is 80%.")
             print("It's time for you to have a FRIENDS marathon again,.. then try this quiz again!")
         elif final_score == 100:
             print("Wow!")
