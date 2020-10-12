@@ -19,7 +19,7 @@ def quiz(no_of_question):
                 score += 1
             else:
                 # print("Close but not quite... ヾ(￣◇￣)ノ")
-                print("ヾ(￣◇￣)ノ Hmm close but not quite... ")
+                print("ヾ(￣◇￣)ノ Hmmm... close but not quite... ")
             del question_list[question]
         final_score = (score/no_of_question)*100
         print("..")
