@@ -1,20 +1,19 @@
 # quiz-F.R.I.E.N.D.S-show
 
 ## Description
-This Todo app will have several main features such as below. These are often referred to as CRUD operations for create, read, update and delete.
-* Adding items to a list
-* Getting all items from the list
-* Updating an item in the list
-* Deleting an item from the list
+Can you pass this ultimate FRIENDS trivia quiz? Take this FRIENDS' trivia quiz to prove whether or not you're a ﻿true ﻿fan. Don't worry, you can choose the level of difficulty you want from Easy to Medium to Difficult.
+
+The One Where You Take the 'FRIENDS' Quiz
+
 
 The program uses the following concept:
 * if else statement
 * operators
 * loop
 * functions
-* classes and object
 * list
 * exception handling
+
 
 ## How to Run
 1. Clone this repo to your local machine using https://github.com/mcalidguid/quiz-FRIENDS.git
