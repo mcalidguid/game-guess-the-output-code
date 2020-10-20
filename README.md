@@ -4,8 +4,6 @@
 Can you pass this ultimate FRIENDS trivia quiz? Take this FRIENDS' trivia quiz to prove whether or not you're a ﻿true ﻿fan. Don't worry, you can choose the level of difficulty you want from Easy to Medium to Difficult.
 
 The One Where You Take the 'FRIENDS' Quiz
-
-
 This program uses the following concept:
 * if else statement
 * operators
