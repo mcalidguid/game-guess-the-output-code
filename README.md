@@ -7,7 +7,6 @@ The One Where You Take the 'FRIENDS' Quiz
 
 
 
-
 This program uses the following concept:
 * if else statement
 * operators
