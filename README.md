@@ -6,6 +6,7 @@ Can you pass this ultimate FRIENDS trivia quiz? Take this FRIENDS' trivia quiz t
 The One Where You Take the 'FRIENDS' Quiz
 
 
+
 This program uses the following concept:
 * if else statement
 * operators
